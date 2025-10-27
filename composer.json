@@ -11,13 +11,6 @@
             "email": "hamzahnafalah@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "WellmedLite\\MsPointOfSale\\MsPointOfSaleServiceProvider"
-            ]
-        }
-    },
     "require": {
         "hanafalah/module-payment": "dev-main",
         "hanafalah/module-profession": "dev-main",
